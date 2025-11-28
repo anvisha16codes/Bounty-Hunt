@@ -2,6 +2,7 @@
 
 **Bounty Hunt** is a third-person action prototype built in Unreal Engine.  
 The player hunts down targets, scores points, and can restart or quit using a simple UI.
+Still a work in progress. not the final product.
 
 ---
 
